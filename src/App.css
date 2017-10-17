@@ -161,18 +161,18 @@ body {
 h1,h3,h4{text-align: center;}
 
 .fonth1{
-  font-size: 60px;
+  font-size:6vw;
   color: black;
 }
 
 .fonth4{
-  font-size: 27px;
-  padding-right: 2%;
+font-size:2vw;
+padding-right: 2%;
 }
 
 .fonth3{
-  font-size: 30px;
-}
+font-size:4vw;
+
 
 th{
   text-align: center;
